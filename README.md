@@ -10,6 +10,10 @@ Step 2
 Follow Test_model.ipynb, everything is given clearly. 
 
 
+
+
+
+
 The contents of "yolov4apple" folder
 
 backup -- contain the trained weights of 2000 batches. The training of weights has been done in "yolov4apple.ipynb"
